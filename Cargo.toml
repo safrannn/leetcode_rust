@@ -1,0 +1,5 @@
+[package]
+name = "leetcode_rust"
+version = "0.1.0"
+authors = ["chengsu"]
+edition = "2018"

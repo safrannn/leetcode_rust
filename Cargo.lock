@@ -18,6 +18,7 @@ name = "leetcode_rust"
 version = "0.1.0"
 dependencies = [
  "leetcode_prelude 0.2.2 (registry+https://github.com/rust-lang/crates.io-index)",
+ "util 0.1.2 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
 [[package]]
@@ -48,6 +49,11 @@ dependencies = [
  "serde 1.0.104 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
+[[package]]
+name = "util"
+version = "0.1.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
 [metadata]
 "checksum itoa 0.4.4 (registry+https://github.com/rust-lang/crates.io-index)" = "501266b7edd0174f8530248f87f99c88fbe60ca4ef3dd486835b8d8d53136f7f"
 "checksum leetcode_prelude 0.2.2 (registry+https://github.com/rust-lang/crates.io-index)" = "301d8266a21751af85f94de4b74fe052f6746aeccd67cb7b0114255559f4c25f"
@@ -55,3 +61,4 @@ dependencies = [
 "checksum ryu 1.0.2 (registry+https://github.com/rust-lang/crates.io-index)" = "bfa8506c1de11c9c4e4c38863ccbe02a305c8188e85a05a784c9e11e1c3910c8"
 "checksum serde 1.0.104 (registry+https://github.com/rust-lang/crates.io-index)" = "414115f25f818d7dfccec8ee535d76949ae78584fc4f79a6f45a904bf8ab4449"
 "checksum serde_json 1.0.44 (registry+https://github.com/rust-lang/crates.io-index)" = "48c575e0cc52bdd09b47f330f646cf59afc586e9c4e3ccd6fc1f625b8ea1dad7"
+"checksum util 0.1.2 (registry+https://github.com/rust-lang/crates.io-index)" = "b639ef78b5e813beaf255ca7e48b77d5797b6460e85089c5e7db6f08a8ec8e00"

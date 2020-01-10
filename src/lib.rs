@@ -5,8 +5,15 @@
 #![allow(clippy::needless_range_loop)]
 #![allow(clippy::float_cmp)]
 #![allow(clippy::cast_lossless)]
+
+//
+mod util;
+//
+mod _0001_two_sum;
 //
 mod _0020_valid_parentheses;
+//
+mod _0021_merge_two_sorted_lists;
 //
 mod _0202_happy_number;
 //

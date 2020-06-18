@@ -1,4 +1,4 @@
-#![deny(clippy::all)]
+// #![deny(clippy::all)]
 #![allow(dead_code)]
 #![allow(clippy::many_single_char_names)]
 #![allow(clippy::collapsible_if)]
@@ -7,15 +7,27 @@
 #![allow(clippy::cast_lossless)]
 
 //
+mod k;
+//
 mod util;
 //
 mod _0001_two_sum;
+//
+mod _0007_reverse_integer;
 //
 mod _0020_valid_parentheses;
 //
 mod _0021_merge_two_sorted_lists;
 //
+mod _0053_maximum_subarray;
+//
+mod _0088_merge_sorted_array;
+//
 mod _0202_happy_number;
+//
+mod _0415_add_strings;
+//
+mod _0953_verifying_an_alien_dictionary;
 //
 mod _1281_subtract_the_product_and_sum_of_digits_of_an_integer;
 //

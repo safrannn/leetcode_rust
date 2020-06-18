@@ -2,16 +2,16 @@ struct Solution;
 
 impl Solution {
     pub fn is_valid(s: String) -> bool {
-        let mut stack: Vec<char> = vec![];
+        let mut char_stack: Vec<char> = vec![];
 
         for c in s.chars() {
             match c {
-                '(' | '[' | '{' => stack.push(c),
-                ')' | ']' | '}' => match stack.pop() {
-                    Some(p) => {
-                        if !((p == '(' && c == ')')
-                            || (p == '[' && c == ']')
-                            || (p == '{' && c == '}'))
+                '(' | '{' | '[' => char_stack.push(c),
+                ')' | '}' | ']' => match char_stack.pop() {
+                    Some(l) => {
+                        if !((c == ')' && l == '(')
+                            | (c == '}' && l == '{')
+                            | (c == ']' && l == '['))
                         {
                             return false;
                         }
@@ -21,7 +21,8 @@ impl Solution {
                 _ => {}
             }
         }
-        stack.is_empty()
+
+        char_stack.is_empty()
     }
 }
 

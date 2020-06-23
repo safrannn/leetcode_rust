@@ -4,6 +4,13 @@ pub struct ListNode {
     pub next: ListLink,
 }
 
+#[macro_export]
+macro_rules! vec_string {
+    ($($tail:tt),*) => {
+        vec![$($tail.to_string()),*] as Vec<String>
+    };
+}
+
 pub type ListLink = Option<Box<ListNode>>;
 
 impl ListNode {

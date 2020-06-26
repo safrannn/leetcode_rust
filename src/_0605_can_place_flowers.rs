@@ -24,5 +24,8 @@ impl Solution {
 #[test]
 fn test() {
     assert_eq!(Solution::can_place_flowers(vec![1, 0, 0, 0, 1], 1), true);
-    assert_eq!(Solution::can_place_flowers(vec![1, 0, 0, 0, 1], 2), true);
+    assert_eq!(
+        Solution::can_place_flowers(vec![1, 0, 0, 0, 0, 1], 2),
+        false
+    );
 }

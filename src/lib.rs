@@ -24,6 +24,8 @@ mod _0021_merge_two_sorted_lists;
 //
 mod _0053_maximum_subarray;
 //
+mod _0066_plus_one;
+//
 mod _0067_add_binary;
 //
 mod _0070_climbing_stairs;
@@ -38,13 +40,21 @@ mod _0202_happy_number;
 //
 mod _0204_count_primes;
 //
+mod _0219_contains_duplicate_ii;
+//
 mod _0266_palindrome_permutation;
+//
+mod _0383_ransom_note;
 //
 mod _0412_fizz_buzz;
 //
 mod _0415_add_strings;
 //
+mod _0448_find_all_numbers_disappeared_in_an_array;
+//
 mod _0557_reverse_words_in_a_string_iii;
+//
+mod _0605_can_place_flowers;
 //
 mod _0680_valid_palindrome_ii;
 //

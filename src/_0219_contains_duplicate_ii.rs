@@ -7,7 +7,7 @@ impl Solution {
         let k = k as usize;
         for (i, v) in nums.into_iter().enumerate() {
             if let Some(j) = map.get(&v) {
-                if i - j < k {
+                if i - j <= k {
                     return true;
                 }
             }

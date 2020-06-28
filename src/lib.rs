@@ -30,19 +30,35 @@ mod _0067_add_binary;
 //
 mod _0070_climbing_stairs;
 //
+mod _0083_remove_duplicates_from_sorted_list;
+//
 mod _0088_merge_sorted_array;
 //
 mod _0121_best_time_to_buy_and_sell_stock;
 //
 mod _0136_single_number;
 //
+mod _0169_majority_element;
+//
+mod _0189_rotate_array;
+//
 mod _0202_happy_number;
 //
 mod _0204_count_primes;
 //
+mod _0205_isomorphic_strings;
+//
+mod _0206_reverse_linked_list;
+//
 mod _0219_contains_duplicate_ii;
 //
+mod _0243_shortest_word_distance;
+//
+mod _0256_paint_house;
+//
 mod _0266_palindrome_permutation;
+//
+mod _0283_move_zeroes;
 //
 mod _0383_ransom_note;
 //
@@ -51,6 +67,8 @@ mod _0412_fizz_buzz;
 mod _0415_add_strings;
 //
 mod _0448_find_all_numbers_disappeared_in_an_array;
+//
+mod _0509_fibonacci_number;
 //
 mod _0557_reverse_words_in_a_string_iii;
 //
@@ -65,6 +83,8 @@ mod _0796_rotate_string;
 mod _0844_backspace_string_compare;
 //
 mod _0953_verifying_an_alien_dictionary;
+//
+mod _0977_squares_of_a_sorted_array;
 //
 mod _1281_subtract_the_product_and_sum_of_digits_of_an_integer;
 //

@@ -7,8 +7,6 @@
 #![allow(clippy::cast_lossless)]
 
 //
-mod k;
-//
 #[macro_use]
 mod util;
 //
@@ -55,6 +53,8 @@ mod _0219_contains_duplicate_ii;
 mod _0243_shortest_word_distance;
 //
 mod _0256_paint_house;
+//
+mod _0257_binary_tree_paths;
 //
 mod _0266_palindrome_permutation;
 //

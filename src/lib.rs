@@ -12,6 +12,8 @@ mod util;
 //
 mod _0001_two_sum;
 //
+mod _0002_add_two_numbers;
+//
 mod _0007_reverse_integer;
 //
 mod _0009_palindrome_number;
@@ -40,6 +42,8 @@ mod _0169_majority_element;
 //
 mod _0189_rotate_array;
 //
+mod _0200_number_of_islands;
+//
 mod _0202_happy_number;
 //
 mod _0204_count_primes;
@@ -59,6 +63,8 @@ mod _0257_binary_tree_paths;
 mod _0266_palindrome_permutation;
 //
 mod _0283_move_zeroes;
+//
+mod _0371_sum_of_two_integers;
 //
 mod _0383_ransom_note;
 //

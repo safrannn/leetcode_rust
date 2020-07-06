@@ -6,6 +6,14 @@ macro_rules! vec_string {
     };
 }
 
+// vector of char
+#[macro_export]
+macro_rules! vec_vec_char {
+    ($($tail:tt),*) => {
+        vec![$(vec!$tail),*] as Vec<Vec<char>>
+    };
+}
+
 // Linked List
 // ListNode struct in leetcode
 #[derive(PartialEq, Eq, Clone, Debug)]

@@ -18,11 +18,17 @@ mod _0007_reverse_integer;
 //
 mod _0009_palindrome_number;
 //
+mod _0015_3sum;
+//
 mod _0020_valid_parentheses;
 //
 mod _0021_merge_two_sorted_lists;
 //
+mod _0046_permutations;
+//
 mod _0053_maximum_subarray;
+//
+mod _0056_merge_intervals;
 //
 mod _0066_plus_one;
 //
@@ -54,6 +60,8 @@ mod _0206_reverse_linked_list;
 //
 mod _0219_contains_duplicate_ii;
 //
+mod _0242_valid_anagram;
+//
 mod _0243_shortest_word_distance;
 //
 mod _0256_paint_house;
@@ -62,7 +70,11 @@ mod _0257_binary_tree_paths;
 //
 mod _0266_palindrome_permutation;
 //
+mod _0268_missing_number;
+//
 mod _0283_move_zeroes;
+//
+mod _0344_reverse_string;
 //
 mod _0371_sum_of_two_integers;
 //
@@ -78,9 +90,13 @@ mod _0509_fibonacci_number;
 //
 mod _0557_reverse_words_in_a_string_iii;
 //
+mod _0560_subarray_sum_equals_k;
+//
 mod _0605_can_place_flowers;
 //
 mod _0680_valid_palindrome_ii;
+//
+mod _0735_asteroid_collision;
 //
 mod _0771_jewels_and_stones;
 //

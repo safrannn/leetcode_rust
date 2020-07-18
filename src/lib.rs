@@ -24,6 +24,8 @@ mod _0020_valid_parentheses;
 //
 mod _0021_merge_two_sorted_lists;
 //
+mod _0022_generate_parentheses;
+//
 mod _0034_find_first_and_last_position_of_element_in_sorted_array;
 //
 mod _0046_permutations;
@@ -61,6 +63,8 @@ mod _0204_count_primes;
 mod _0205_isomorphic_strings;
 //
 mod _0206_reverse_linked_list;
+//
+mod _0210_course_schedule_ii;
 //
 mod _0219_contains_duplicate_ii;
 //

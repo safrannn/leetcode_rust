@@ -24,6 +24,8 @@ mod _0020_valid_parentheses;
 //
 mod _0021_merge_two_sorted_lists;
 //
+mod _0034_find_first_and_last_position_of_element_in_sorted_array;
+//
 mod _0046_permutations;
 //
 mod _0053_maximum_subarray;
@@ -41,6 +43,8 @@ mod _0083_remove_duplicates_from_sorted_list;
 mod _0088_merge_sorted_array;
 //
 mod _0121_best_time_to_buy_and_sell_stock;
+//
+mod _0127_word_ladder;
 //
 mod _0136_single_number;
 //
@@ -75,6 +79,8 @@ mod _0268_missing_number;
 mod _0283_move_zeroes;
 //
 mod _0344_reverse_string;
+//
+mod _0347_top_k_frequent_elements;
 //
 mod _0371_sum_of_two_integers;
 //

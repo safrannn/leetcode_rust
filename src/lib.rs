@@ -110,6 +110,8 @@ mod _0605_can_place_flowers;
 //
 mod _0680_valid_palindrome_ii;
 //
+mod _0724_find_pivot_index;
+//
 mod _0735_asteroid_collision;
 //
 mod _0771_jewels_and_stones;
@@ -121,6 +123,8 @@ mod _0844_backspace_string_compare;
 mod _0953_verifying_an_alien_dictionary;
 //
 mod _0977_squares_of_a_sorted_array;
+//
+mod _1029_two_city_scheduling;
 //
 mod _1281_subtract_the_product_and_sum_of_digits_of_an_integer;
 //

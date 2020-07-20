@@ -28,6 +28,8 @@ mod _0022_generate_parentheses;
 //
 mod _0034_find_first_and_last_position_of_element_in_sorted_array;
 //
+mod _0036_valid_sudoku;
+//
 mod _0046_permutations;
 //
 mod _0053_maximum_subarray;
@@ -39,6 +41,8 @@ mod _0066_plus_one;
 mod _0067_add_binary;
 //
 mod _0070_climbing_stairs;
+//
+mod _0078_subsets;
 //
 mod _0083_remove_duplicates_from_sorted_list;
 //

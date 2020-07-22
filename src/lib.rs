@@ -100,11 +100,19 @@ mod _0415_add_strings;
 //
 mod _0448_find_all_numbers_disappeared_in_an_array;
 //
+mod _0496_next_greater_element_i;
+//
+mod _0503_next_greater_element_ii;
+//
 mod _0509_fibonacci_number;
+//
+mod _0556_next_greater_element_iii;
 //
 mod _0557_reverse_words_in_a_string_iii;
 //
 mod _0560_subarray_sum_equals_k;
+//
+mod _0561_array_partition_i;
 //
 mod _0605_can_place_flowers;
 //
@@ -120,11 +128,17 @@ mod _0796_rotate_string;
 //
 mod _0844_backspace_string_compare;
 //
+mod _0905_sort_array_by_parity;
+//
 mod _0953_verifying_an_alien_dictionary;
 //
 mod _0977_squares_of_a_sorted_array;
 //
+mod _1013_partition_array_into_three_parts_with_equal_sum;
+//
 mod _1029_two_city_scheduling;
+//
+mod _1249_minimum_remove_to_make_valid_parentheses;
 //
 mod _1281_subtract_the_product_and_sum_of_digits_of_an_integer;
 //

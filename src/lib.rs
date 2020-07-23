@@ -18,6 +18,8 @@ mod _0007_reverse_integer;
 //
 mod _0009_palindrome_number;
 //
+mod _0014_longest_common_prefix;
+//
 mod _0015_3sum;
 //
 mod _0020_valid_parentheses;
@@ -53,6 +55,8 @@ mod _0121_best_time_to_buy_and_sell_stock;
 mod _0127_word_ladder;
 //
 mod _0136_single_number;
+//
+mod _0155_min_stack;
 //
 mod _0169_majority_element;
 //
@@ -97,6 +101,8 @@ mod _0383_ransom_note;
 mod _0412_fizz_buzz;
 //
 mod _0415_add_strings;
+//
+mod _0443_string_compression;
 //
 mod _0448_find_all_numbers_disappeared_in_an_array;
 //

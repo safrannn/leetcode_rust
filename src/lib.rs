@@ -126,6 +126,8 @@ mod _0771_jewels_and_stones;
 //
 mod _0796_rotate_string;
 //
+mod _0819_most_common_word;
+//
 mod _0844_backspace_string_compare;
 //
 mod _0905_sort_array_by_parity;

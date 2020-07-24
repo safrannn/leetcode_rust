@@ -52,6 +52,8 @@ mod _0088_merge_sorted_array;
 //
 mod _0121_best_time_to_buy_and_sell_stock;
 //
+mod _0125_valid_palindrome;
+//
 mod _0127_word_ladder;
 //
 mod _0136_single_number;
@@ -127,6 +129,8 @@ mod _0680_valid_palindrome_ii;
 mod _0724_find_pivot_index;
 //
 mod _0735_asteroid_collision;
+//
+mod _0763_partition_labels;
 //
 mod _0771_jewels_and_stones;
 //

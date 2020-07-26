@@ -100,6 +100,8 @@ mod _0371_sum_of_two_integers;
 //
 mod _0383_ransom_note;
 //
+mod _0387_first_unique_character_in_a_string;
+//
 mod _0412_fizz_buzz;
 //
 mod _0415_add_strings;
@@ -124,6 +126,8 @@ mod _0561_array_partition_i;
 //
 mod _0605_can_place_flowers;
 //
+mod _0678_valid_parenthesis_string;
+//
 mod _0680_valid_palindrome_ii;
 //
 mod _0724_find_pivot_index;
@@ -142,11 +146,15 @@ mod _0844_backspace_string_compare;
 //
 mod _0905_sort_array_by_parity;
 //
+mod _0922_sort_array_by_parity_ii;
+//
 mod _0953_verifying_an_alien_dictionary;
 //
 mod _0977_squares_of_a_sorted_array;
 //
 mod _1013_partition_array_into_three_parts_with_equal_sum;
+//
+mod _1021_remove_outermost_parentheses;
 //
 mod _1029_two_city_scheduling;
 //
@@ -163,3 +171,5 @@ mod _1299_replace_elements_with_greatest_element_on_right_side;
 mod _1304_find_n_unique_integers_sum_up_to_zero;
 //
 mod _1486_xor_operation_in_an_array;
+//
+mod _1528_shuffle_string;

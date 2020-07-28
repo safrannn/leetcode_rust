@@ -152,6 +152,8 @@ mod _0953_verifying_an_alien_dictionary;
 //
 mod _0977_squares_of_a_sorted_array;
 //
+mod _0994_rotting_oranges;
+//
 mod _1013_partition_array_into_three_parts_with_equal_sum;
 //
 mod _1021_remove_outermost_parentheses;

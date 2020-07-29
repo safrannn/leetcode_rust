@@ -14,9 +14,13 @@ mod _0001_two_sum;
 //
 mod _0002_add_two_numbers;
 //
+mod _0005_longest_palindromic_substring;
+//
 mod _0007_reverse_integer;
 //
 mod _0009_palindrome_number;
+//
+mod _0011_container_with_most_water;
 //
 mod _0014_longest_common_prefix;
 //
@@ -64,6 +68,8 @@ mod _0169_majority_element;
 //
 mod _0189_rotate_array;
 //
+mod _0198_house_robber;
+//
 mod _0200_number_of_islands;
 //
 mod _0202_happy_number;
@@ -77,6 +83,8 @@ mod _0206_reverse_linked_list;
 mod _0210_course_schedule_ii;
 //
 mod _0219_contains_duplicate_ii;
+//
+mod _0238_product_of_array_except_self;
 //
 mod _0242_valid_anagram;
 //

@@ -189,3 +189,9 @@ mod _1304_find_n_unique_integers_sum_up_to_zero;
 mod _1486_xor_operation_in_an_array;
 //
 mod _1528_shuffle_string;
+//
+mod _1534_count_good_triplets;
+//
+mod _1535_find_the_winner_of_an_array_game;
+//
+mod _1537_get_the_maximum_score;

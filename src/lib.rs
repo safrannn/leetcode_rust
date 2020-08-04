@@ -14,6 +14,8 @@ mod _0001_two_sum;
 //
 mod _0002_add_two_numbers;
 //
+mod _0003_longest_substring_without_repeating_characters;
+//
 mod _0005_longest_palindromic_substring;
 //
 mod _0007_reverse_integer;
@@ -99,6 +101,8 @@ mod _0266_palindrome_permutation;
 mod _0268_missing_number;
 //
 mod _0283_move_zeroes;
+//
+mod _0342_power_of_four;
 //
 mod _0344_reverse_string;
 //

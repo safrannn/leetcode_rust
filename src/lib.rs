@@ -28,6 +28,8 @@ mod _0014_longest_common_prefix;
 //
 mod _0015_3sum;
 //
+mod _0017_letter_combinations_of_a_phone_number;
+//
 mod _0020_valid_parentheses;
 //
 mod _0021_merge_two_sorted_lists;
@@ -37,6 +39,8 @@ mod _0022_generate_parentheses;
 mod _0034_find_first_and_last_position_of_element_in_sorted_array;
 //
 mod _0036_valid_sudoku;
+//
+mod _0038_count_and_say;
 //
 mod _0046_permutations;
 //

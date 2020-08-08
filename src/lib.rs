@@ -44,6 +44,8 @@ mod _0038_count_and_say;
 //
 mod _0046_permutations;
 //
+mod _0049_group_anagrams;
+//
 mod _0053_maximum_subarray;
 //
 mod _0056_merge_intervals;
@@ -183,6 +185,8 @@ mod _1013_partition_array_into_three_parts_with_equal_sum;
 mod _1021_remove_outermost_parentheses;
 //
 mod _1029_two_city_scheduling;
+//
+mod _1239_maximum_length_of_a_concatenated_string_with_unique_characters;
 //
 mod _1249_minimum_remove_to_make_valid_parentheses;
 //

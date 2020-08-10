@@ -2,7 +2,6 @@ struct Solution;
 
 impl Solution {
     pub fn find_kth_positive(arr: Vec<i32>, k: i32) -> i32 {
-        let mut arr = arr;
         let mut k = k;
         let mut h_dummy: i32 = 1;
         let mut index: usize = 0;

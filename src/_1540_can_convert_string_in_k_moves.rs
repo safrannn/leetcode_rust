@@ -37,7 +37,7 @@ impl Solution {
 #[test]
 fn test() {
     assert_eq!(
-        Solution::can_convert_string("input".to_string(), "output".to_string(), 9),
+        Solution::can_convert_string("input".to_string(), "ouput".to_string(), 9),
         true
     );
     assert_eq!(

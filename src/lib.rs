@@ -72,6 +72,8 @@ mod _0136_single_number;
 //
 mod _0155_min_stack;
 //
+mod _0167_two_sum_ii;
+//
 mod _0169_majority_element;
 //
 mod _0189_rotate_array;
@@ -97,6 +99,8 @@ mod _0238_product_of_array_except_self;
 mod _0242_valid_anagram;
 //
 mod _0243_shortest_word_distance;
+//
+mod _0252_meeting_rooms;
 //
 mod _0256_paint_house;
 //
@@ -137,6 +141,8 @@ mod _0503_next_greater_element_ii;
 mod _0509_fibonacci_number;
 //
 mod _0520_detect_capital;
+//
+mod _0532_kdiff_pairs_in_an_array;
 //
 mod _0556_next_greater_element_iii;
 //
@@ -211,5 +217,7 @@ mod _1534_count_good_triplets;
 mod _1535_find_the_winner_of_an_array_game;
 //
 mod _1537_get_the_maximum_score;
+//
+mod _1539_kth_missing_positive_number;
 //
 mod _1540_can_convert_string_in_k_moves;

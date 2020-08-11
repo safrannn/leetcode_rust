@@ -102,6 +102,8 @@ mod _0243_shortest_word_distance;
 //
 mod _0252_meeting_rooms;
 //
+mod _0253_meeting_rooms_ii;
+//
 mod _0256_paint_house;
 //
 mod _0257_binary_tree_paths;
@@ -125,6 +127,8 @@ mod _0371_sum_of_two_integers;
 mod _0383_ransom_note;
 //
 mod _0387_first_unique_character_in_a_string;
+//
+mod _0394_decode_string;
 //
 mod _0412_fizz_buzz;
 //

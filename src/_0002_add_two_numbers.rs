@@ -1,5 +1,5 @@
 struct Solution;
-use crate::util::*;
+use rustgym::util::*;
 
 impl Solution {
     pub fn add_two_numbers(
@@ -24,7 +24,7 @@ impl Solution {
                 p2 = &p2_.next;
             }
             carry = current_sum / 10;
-            *p3 = ListNode::node(current_sum % 10, None);
+            *p3 = list!(current_sum % 10);
             p3 = &mut p3.as_mut().unwrap().next;
         }
         sum
@@ -34,7 +34,7 @@ impl Solution {
 #[test]
 fn test() {
     assert_eq!(
-        Solution::add_two_numbers(ListNode::list(vec![2, 4, 3]), ListNode::list(vec![5, 6, 4])),
-        ListNode::list(vec![7, 0, 8])
+        Solution::add_two_numbers(list!(2, 4, 3), list!(5, 6, 4)),
+        list!(7, 0, 8)
     );
 }

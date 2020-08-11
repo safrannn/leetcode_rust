@@ -20,9 +20,9 @@ impl Solution {
                     current_path.push_str("->");
                     helper(&root.left, current_path, paths);
                     helper(&root.right, current_path, paths);
-                    current_path.split_off(current_path.len() - 2);
+                    current_path.truncate(current_path.len() - 2);
                 }
-                current_path.split_off(current_path.len() - current_value.len());
+                current_path.truncate(current_path.len() - current_value.len());
             }
         }
         let mut current_path = String::new();

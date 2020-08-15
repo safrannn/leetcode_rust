@@ -190,6 +190,8 @@ mod _0922_sort_array_by_parity_ii;
 //
 mod _0937_reorder_data_in_log_files;
 //
+mod _0938_range_sum_of_bst;
+//
 mod _0953_verifying_an_alien_dictionary;
 //
 mod _0977_squares_of_a_sorted_array;

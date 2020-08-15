@@ -62,6 +62,8 @@ mod _0083_remove_duplicates_from_sorted_list;
 //
 mod _0088_merge_sorted_array;
 //
+mod _0101_symmetric_tree;
+//
 mod _0121_best_time_to_buy_and_sell_stock;
 //
 mod _0125_valid_palindrome;
@@ -93,6 +95,8 @@ mod _0206_reverse_linked_list;
 mod _0210_course_schedule_ii;
 //
 mod _0219_contains_duplicate_ii;
+//
+mod _0234_palindrome_linked_list;
 //
 mod _0238_product_of_array_except_self;
 //
@@ -147,6 +151,8 @@ mod _0509_fibonacci_number;
 mod _0520_detect_capital;
 //
 mod _0532_kdiff_pairs_in_an_array;
+//
+mod _0543_diameter_of_binary_tree;
 //
 mod _0556_next_greater_element_iii;
 //

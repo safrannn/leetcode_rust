@@ -64,6 +64,8 @@ mod _0088_merge_sorted_array;
 //
 mod _0101_symmetric_tree;
 //
+mod _0104_maximum_depth_of_binary_tree;
+//
 mod _0121_best_time_to_buy_and_sell_stock;
 //
 mod _0125_valid_palindrome;

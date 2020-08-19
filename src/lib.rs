@@ -96,6 +96,8 @@ mod _0206_reverse_linked_list;
 //
 mod _0210_course_schedule_ii;
 //
+mod _0215_kth_largest_element_in_an_array;
+//
 mod _0219_contains_duplicate_ii;
 //
 mod _0234_palindrome_linked_list;
@@ -197,6 +199,8 @@ mod _0937_reorder_data_in_log_files;
 mod _0938_range_sum_of_bst;
 //
 mod _0953_verifying_an_alien_dictionary;
+//
+mod _0973_k_closest_points_to_origin;
 //
 mod _0977_squares_of_a_sorted_array;
 //

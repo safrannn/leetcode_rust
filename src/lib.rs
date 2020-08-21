@@ -122,6 +122,8 @@ mod _0268_missing_number;
 //
 mod _0283_move_zeroes;
 //
+mod _0300_longest_increasing_subsequence;
+//
 mod _0342_power_of_four;
 //
 mod _0344_reverse_string;

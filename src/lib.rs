@@ -58,6 +58,8 @@ mod _0070_climbing_stairs;
 //
 mod _0078_subsets;
 //
+mod _0079_word_search;
+//
 mod _0083_remove_duplicates_from_sorted_list;
 //
 mod _0088_merge_sorted_array;

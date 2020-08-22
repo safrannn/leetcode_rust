@@ -1,4 +1,5 @@
 struct Solution;
+// use rustgym::util::*;
 
 impl Solution {
     pub fn exist(mut board: Vec<Vec<char>>, word: String) -> bool {
@@ -32,13 +33,13 @@ impl Solution {
         if i > 0 && board[i - 1][j] == char_check {
             result = Self::find(board, chars, char_check_i + 1, i - 1, j);
         }
-        if i < m - 1 && board[i + 1][j] == char_check {
+        if !result && i < m - 1 && board[i + 1][j] == char_check {
             result = Self::find(board, chars, char_check_i + 1, i + 1, j);
         }
-        if j > 0 && board[i][j - 1] == char_check {
+        if !result && j > 0 && board[i][j - 1] == char_check {
             result = Self::find(board, chars, char_check_i + 1, i, j - 1);
         }
-        if j < n - 1 && board[i][j + 1] == char_check {
+        if !result && j < n - 1 && board[i][j + 1] == char_check {
             result = Self::find(board, chars, char_check_i + 1, i, j + 1);
         }
         board[i][j] = chars[char_check_i - 1];
@@ -50,7 +51,7 @@ impl Solution {
 fn test() {
     assert_eq!(
         Solution::exist(
-            vec_vec_i32![
+            vec_vec_char![
                 ['A', 'B', 'C', 'E'],
                 ['S', 'F', 'C', 'S'],
                 ['A', 'D', 'E', 'E']
@@ -61,7 +62,7 @@ fn test() {
     );
     assert_eq!(
         Solution::exist(
-            vec_vec_i32![
+            vec_vec_char![
                 ['A', 'B', 'C', 'E'],
                 ['S', 'F', 'C', 'S'],
                 ['A', 'D', 'E', 'E']
@@ -72,7 +73,7 @@ fn test() {
     );
     assert_eq!(
         Solution::exist(
-            vec_vec_i32![
+            vec_vec_char![
                 ['A', 'B', 'C', 'E'],
                 ['S', 'F', 'C', 'S'],
                 ['A', 'D', 'E', 'E']

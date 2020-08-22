@@ -102,6 +102,8 @@ mod _0215_kth_largest_element_in_an_array;
 //
 mod _0219_contains_duplicate_ii;
 //
+mod _0221_maximal_square;
+//
 mod _0234_palindrome_linked_list;
 //
 mod _0238_product_of_array_except_self;

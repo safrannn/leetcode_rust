@@ -255,3 +255,7 @@ mod _1540_can_convert_string_in_k_moves;
 mod _1576_replace_all_question_mark_to_avoid_consecutive_repeating_characters;
 //
 mod _1577_number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers;
+//
+mod _1582_special_positions_in_a_binary_matrix;
+//
+mod _1583_count_unhappy_friends;

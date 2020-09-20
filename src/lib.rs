@@ -259,3 +259,5 @@ mod _1577_number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbe
 mod _1582_special_positions_in_a_binary_matrix;
 //
 mod _1583_count_unhappy_friends;
+//
+mod _5519_rearrange_spaces_between_words;

@@ -2,7 +2,7 @@ use std::collections::HashSet;
 struct Solution;
 impl Solution {
     pub fn max_unique_split(s: String) -> i32 {
-        let mut hash_set: HashSet<String> = HashSet::new();
+        let hash_set: HashSet<String> = HashSet::new();
         let mut result: usize = 0;
         Self::search(0, hash_set, &mut result, &s);
         result as i32

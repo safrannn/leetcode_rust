@@ -260,4 +260,10 @@ mod _1582_special_positions_in_a_binary_matrix;
 //
 mod _1583_count_unhappy_friends;
 //
-mod _5519_rearrange_spaces_between_words;
+mod _1592_rearrange_spaces_between_words;
+//
+mod _1593_split_a_string_into_the_max_number_of_unique_substrings;
+//
+mod _1598_rawler_log_folder;
+//
+mod _1599_maximum_profit_of_operating_a_centennial_wheel;

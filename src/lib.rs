@@ -236,6 +236,8 @@ mod _1299_replace_elements_with_greatest_element_on_right_side;
 //
 mod _1304_find_n_unique_integers_sum_up_to_zero;
 //
+mod _1480_running_sum_of_1d_array;
+//
 mod _1486_xor_operation_in_an_array;
 //
 mod _1496_path_crossing;
@@ -252,6 +254,8 @@ mod _1539_kth_missing_positive_number;
 //
 mod _1540_can_convert_string_in_k_moves;
 //
+mod _1572_matrix_diagonal_sum;
+//
 mod _1576_replace_all_question_mark_to_avoid_consecutive_repeating_characters;
 //
 mod _1577_number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers;
@@ -259,6 +263,8 @@ mod _1577_number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbe
 mod _1582_special_positions_in_a_binary_matrix;
 //
 mod _1583_count_unhappy_friends;
+//
+mod _1588_sum_of_all_odd_length_subarrays;
 //
 mod _1592_rearrange_spaces_between_words;
 //

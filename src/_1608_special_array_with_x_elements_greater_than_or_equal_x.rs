@@ -1,9 +1,6 @@
 struct Solution;
 impl Solution {
     pub fn special_array(nums: Vec<i32>) -> i32 {
-        // let mut nums = nums;
-        // nums.sort_unstable();
-
         for i in 0..=nums.len() as i32 {
             let mut count: i32 = 0;
             for j in 0..nums.len() {

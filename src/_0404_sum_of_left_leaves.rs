@@ -26,6 +26,6 @@ impl Solution {
 fn test() {
     assert_eq!(
         Solution::sum_of_left_leaves(tree!(3, tree!(9), tree!(20, tree!(15), tree!(7)))),
-        3
+        24
     );
 }

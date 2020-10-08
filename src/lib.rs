@@ -148,6 +148,8 @@ mod _0387_first_unique_character_in_a_string;
 //
 mod _0394_decode_string;
 //
+mod _0404_sum_of_left_leaves;
+//
 mod _0412_fizz_buzz;
 //
 mod _0415_add_strings;
@@ -171,6 +173,8 @@ mod _0543_diameter_of_binary_tree;
 mod _0556_next_greater_element_iii;
 //
 mod _0557_reverse_words_in_a_string_iii;
+//
+mod _0559_maximum_depth_of_nary_tree;
 //
 mod _0560_subarray_sum_equals_k;
 //

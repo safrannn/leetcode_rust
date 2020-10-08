@@ -3,7 +3,7 @@ use crate::util::*;
 use std::cell::RefCell;
 use std::rc::Rc;
 impl Solution {
-    pub fn maxDepth(root: Option<Rc<RefCell<TreeNode>>>) -> i32 {
+    pub fn max_depth(root: Option<Rc<RefCell<TreeNode>>>) -> i32 {
         let mut max_depth: i32 = 0;
         Self::traverse(&root, 0, &mut max_depth);
         max_depth
@@ -24,7 +24,7 @@ impl Solution {
 #[test]
 fn test() {
     assert_eq!(
-        Solution::maxDepth(tree!(3, tree!(9), tree!(20, tree!(15), tree!(7)))),
+        Solution::max_depth(tree!(3, tree!(9), tree!(20, tree!(15), tree!(7)))),
         3
     );
 }

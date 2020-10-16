@@ -100,6 +100,8 @@ mod _0206_reverse_linked_list;
 //
 mod _0210_course_schedule_ii;
 //
+mod _0213_house_robber_ii;
+//
 mod _0215_kth_largest_element_in_an_array;
 //
 mod _0219_contains_duplicate_ii;

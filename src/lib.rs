@@ -56,6 +56,8 @@ mod _0067_add_binary;
 //
 mod _0070_climbing_stairs;
 //
+mod _0074_search_a_2d_matrix;
+//
 mod _0078_subsets;
 //
 mod _0079_word_search;

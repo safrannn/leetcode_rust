@@ -70,6 +70,8 @@ mod _0101_symmetric_tree;
 //
 mod _0104_maximum_depth_of_binary_tree;
 //
+mod _0110_balanced_binary_tree;
+//
 mod _0121_best_time_to_buy_and_sell_stock;
 //
 mod _0122_best_time_to_buy_and_sell_stock_ii;
@@ -141,6 +143,10 @@ mod _0342_power_of_four;
 mod _0344_reverse_string;
 //
 mod _0347_top_k_frequent_elements;
+//
+mod _0349_intersection_of_two_arrays;
+//
+mod _0350_intersection_of_two_arrays_ii;
 //
 mod _0359_logger_rate_limiter;
 //
@@ -285,3 +291,5 @@ mod _1599_maximum_profit_of_operating_a_centennial_wheel;
 mod _1608_special_array_with_x_elements_greater_than_or_equal_x;
 //
 mod _1609_even_odd_tree;
+//
+mod test;

@@ -1,32 +1,12 @@
 struct Solution;
 
 impl Solution {
-    pub fn sorted_squares(a: Vec<i32>) -> Vec<i32> {
-        let mut left: usize = 0;
-        let mut right: usize = a.len() - 1;
-
-        let mut result: Vec<i32> = vec![0; a.len()];
-        let mut i: usize = a.len() - 1;
-
-        let mut left_result: i32;
-        let mut right_result: i32;
-
-        while left <= right {
-            left_result = a[left] * a[left];
-            right_result = a[right] * a[right];
-
-            if left_result >= right_result {
-                result[i] = left_result;
-                left += 1;
-            } else {
-                result[i] = right_result;
-                right -= 1;
-            }
-            if i > 0 {
-                i -= 1;
-            }
-        }
-        result
+    pub fn sorted_squares(mut a: Vec<i32>) -> Vec<i32> {
+        a.iter_mut().for_each(|mut s| {
+            *s *= *s;
+        });
+        a.sort();
+        a
     }
 }
 

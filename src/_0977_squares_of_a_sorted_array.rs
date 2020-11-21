@@ -2,7 +2,7 @@ struct Solution;
 
 impl Solution {
     pub fn sorted_squares(mut a: Vec<i32>) -> Vec<i32> {
-        a.iter_mut().for_each(|mut s| {
+        a.iter_mut().for_each(|s| {
             *s *= *s;
         });
         a.sort();

@@ -154,6 +154,8 @@ mod _0371_sum_of_two_integers;
 //
 mod _0383_ransom_note;
 //
+mod _0386_lexicographical_numbers;
+//
 mod _0387_first_unique_character_in_a_string;
 //
 mod _0394_decode_string;
@@ -167,6 +169,8 @@ mod _0415_add_strings;
 mod _0443_string_compression;
 //
 mod _0448_find_all_numbers_disappeared_in_an_array;
+//
+mod _0470_implement_rand10_using_rand7;
 //
 mod _0496_next_greater_element_i;
 //

@@ -199,6 +199,7 @@ name = "leetcode_rust"
 version = "0.1.0"
 dependencies = [
  "leetcode_prelude 0.2.2 (registry+https://github.com/rust-lang/crates.io-index)",
+ "rand 0.7.3 (registry+https://github.com/rust-lang/crates.io-index)",
  "rustgym 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 

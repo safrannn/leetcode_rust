@@ -15,7 +15,7 @@ impl Solution {
         let mut result: Vec<i32> = vec![];
         for (n1, o1) in map_1 {
             if let Some(&o2) = map_2.get(&n1.clone()) {
-                for i in 0..o1.min(o2) {
+                for _i in 0..o1.min(o2) {
                     result.push(n1.clone());
                 }
             }

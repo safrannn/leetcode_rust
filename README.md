@@ -65,3 +65,52 @@ leetcode practise solution in rust
 |242|[Valid Anagram](src/_0242_valid_anagram.rs)|
 |243|[Shortest Word Distance](src/_0243_shortest_word_distance.rs)|
 |252|[Meeting Rooms](src/_0252_meeting_rooms.rs)|
+|253|[Meeting Rooms II](src/_0253_meeting_rooms_ii.rs)|
+|256|[Paint House](src/_0256_paint_house.rs)|
+|257|[Binary Tree Paths](src/_0257_binary_tree_paths.rs)|
+|266|[Palindrome Permutation](src/_0266_palindrome_permutation.rs)|
+|268|[Missing Number](src/_0268_missing_number.rs)|
+|283|[Move Zeroes](src/_0283_move_zeroes.rs)|
+|300|[Longest Increasing Subsequence](src/_0300_longest_increasing_subsequence.rs)|
+|322|[Coin Change](src/_0322_coin_change.rs)|
+|337|[House Robber III](src/_0337_house_robber_iii.rs)|
+|342|[Power of Four](src/_0342_power_of_four.rs)|
+|344|[Reverse String](src/_0344_reverse_string.rs)|
+|347|[Top K Frequent Elements](src/_0347_top_k_frequent_elements.rs)|
+|349|[Intersection of Two Arrays](src/_0349_intersection_of_two_arrays.rs)|
+|350|[Intersection of Two Arrays II ](src/_0350_intersection_of_two_arrays_ii.rs)|
+|359|[Logger Rate Limiter](src/_0359_logger_rate_limiter.rs)|
+|371|[Sum of Two Integers ](src/_0371_sum_of_two_integers.rs)|
+|383|[Ransom Note](src/_0383_ransom_note.rs)|
+|386|[Lexicographical Numbers](src/_0386_lexicographical_numbers.rs)|
+|387|[First Unique Character in a String ](src/_0387_first_unique_character_in_a_string.rs)|
+|394|[Decode String ](src/_0394_decode_string.rs)|
+|404|[Sum of Left Leaves](src/_0404_sum_of_left_leaves.rs)|
+|412|[Fizz Buzz ](src/_0412_fizz_buzz.rs)|
+|415|[Add Strings ](src/_0415_add_strings.rs)|
+|443|[String Compression](src/_0443_string_compression.rs)|
+|448|[Find All Numbers Disappeared in an Array](src/_0448_find_all_numbers_disappeared_in_an_array.rs)|
+|470|[Implement Rand10() Using Rand7()](src/_0470_implement_rand10_using_rand7.rs)|
+|496|[Next Greater Element I](src/_0496_next_greater_element_i.rs)|
+|503|[Next Greater Element II](src/_0503_next_greater_element_ii.rs)|
+|509|[Fibonacci Number](src/_0509_fibonacci_number.rs)|
+|520|[Detect Capital](src/_0520_detect_capital.rs)|
+|532|[K-diff Pairs in an Array](src/_0532_kdiff_pairs_in_an_array.rs)|
+|543|[Diameter of Binary Tree](src/_0543_diameter_of_binary_tree.rs)|
+|556|[Next Greater Element III ](src/_0556_next_greater_element_iii.rs)|
+|557|[Reverse Words in a String III ](src/_0557_reverse_words_in_a_string_iii.rs)|
+|559|[Maximum deph of N-ary tree](src/_0559_maximum_depth_of_nary_tree.rs)|
+|560|[Subarray Sum Equals K ](src/_0560_subarray_sum_equals_k.rs)|
+|561|[Array Partition I ](src/_0561_array_partition_i.rs)|
+|605|[Can Place Flowers](src/_0605_can_place_flowers.rs)|
+|617|[Merge Two Binary Trees ](src/_0617_merge_two_binary_trees.rs)|
+|678|[Valid Parenthesis String ](src/_0678_valid_parenthesis_string.rs)|
+|680|[Valid Palindrome II ](src/_0680_valid_palindrome_ii.rs)|
+|692|[Top K Frequent Words ](src/_0692_top_k_frequent_words.rs)|
+|724|[Find Pivot Index](src/_0724_find_pivot_index.rs)|
+|735|[Asteroid Collision ](src/_0735_asteroid_collision.rs)|
+|763|[Partition Labels](src/_0763_partition_labels.rs)|
+|771|[Jewels and Stones ](src/_0771_jewels_and_stones.rs)|
+|796|[Rotate String  ](src/_0796_rotate_string.rs)|
+
+

@@ -66,7 +66,11 @@ mod _0083_remove_duplicates_from_sorted_list;
 //
 mod _0088_merge_sorted_array;
 //
+mod _0091_decode_ways;
+//
 mod _0101_symmetric_tree;
+//
+mod _0103_binary_tree_zigzag_level_order_traversal;
 //
 mod _0104_maximum_depth_of_binary_tree;
 //
@@ -102,7 +106,11 @@ mod _0205_isomorphic_strings;
 //
 mod _0206_reverse_linked_list;
 //
+mod _0207_course_schedule;
+//
 mod _0210_course_schedule_ii;
+//
+mod _0211_add_and_search_word_data_structure_design;
 //
 mod _0213_house_robber_ii;
 //
@@ -137,6 +145,8 @@ mod _0283_move_zeroes;
 mod _0300_longest_increasing_subsequence;
 //
 mod _0322_coin_change;
+//
+mod _0337_house_robber_iii;
 //
 mod _0342_power_of_four;
 //
@@ -212,11 +222,15 @@ mod _0763_partition_labels;
 //
 mod _0771_jewels_and_stones;
 //
+mod _0777_swap_adjacent_in_lr_string;
+//
 mod _0796_rotate_string;
 //
 mod _0819_most_common_word;
 //
 mod _0844_backspace_string_compare;
+//
+mod _0875_koko_eating_bananas;
 //
 mod _0905_sort_array_by_parity;
 //

@@ -112,5 +112,43 @@ leetcode practise solution in rust
 |763|[Partition Labels](src/_0763_partition_labels.rs)|
 |771|[Jewels and Stones ](src/_0771_jewels_and_stones.rs)|
 |796|[Rotate String  ](src/_0796_rotate_string.rs)|
-
+|819|[Most Common Word ](src/_0819_most_common_word.rs)|
+|844|[Backspace String Compare](src/_0844_backspace_string_compare.rs)|
+|875|[Koko Eating Bananas](src/_0875_koko_eating_bananas.rs)|
+|905|[Sort Array By Parity](src/_0905_sort_array_by_parity.rs)|
+|922|[Sort Array By Parity II](src/_0922_sort_array_by_parity_ii.rs)|
+|937|[Reorder Data in Log Files](src/_0937_reorder_data_in_log_files.rs)|
+|938|[Range Sum of BST](src/_0938_range_sum_of_bst.rs)|
+|953|[Verifying an Alien Dictionary](src/_0953_verifying_an_alien_dictionary.rs)|
+|973|[K Closest Points to Origin](src/_0973_k_closest_points_to_origin.rs)|
+|977|[Squares of a Sorted Array ](src/_0977_squares_of_a_sorted_array.rs)|
+|994|[Rotting Oranges](src/_0994_rotting_oranges.rs)|
+|1013|[Partition Array Into Three Parts With Equal Sum](src/_1013_partition_array_into_three_parts_with_equal_sum.rs)|
+|1021|[Remove Outermost Parentheses](src/_1021_remove_outermost_parentheses_1029_two_city_scheduling.rs)|
+|1029|[Two City Scheduling](src/_1029_two_city_scheduling.rs)|
+|1239|[Maximum Length of a Concatenated String with Unique Characters ](src/_1239_maximum_length_of_a_concatenated_string_with_unique_characters.rs)|
+|1249|[Minimum Remove to Make Valid Parentheses](src/_1249_minimum_remove_to_make_valid_parentheses.rs)|
+|1281|[Subtract the Product and Sum of Digits of an Integer](src/_1281_subtract_the_product_and_sum_of_digits_of_an_integer.rs)|
+|1287|[Element Appearing More Than 25% In Sorted Array](src/_1287_element_appearing_more_than_25_in_sorted_array.rs)|
+|1290|[Convert Binary Number in a Linked List to Integer](src/_1290_convert_binary_number_in_a_linked_list_to_integer.rs)|
+|1299|[Replace Elements with Greatest Element on Right Side](src/_1299_replace_elements_with_greatest_element_on_right_side.rs)|
+|1304|[Find N Unique Integers Sum up to Zero ](src/_1304_find_n_unique_integers_sum_up_to_zero.rs)|
+|1480|[Running Sum of 1d Array](src/_1480_running_sum_of_1d_array.rs)|
+|1486|[XOR Operation in an Array ](src/_1486_xor_operation_in_an_array.rs)|
+|1496|[Path Crossing ](src/_1496_path_crossing.rs)|
+|1528|[Shuffle String](src/_1528_shuffle_string.rs)|
+|1534|[Count Good Triplets](src/_1534_count_good_triplets.rs)|
+|1535|[Find the Winner of an Array Game](src/_1535_find_the_winner_of_an_array_game.rs)|
+|1537|[Get the Maximum Score ](src/_1537_get_the_maximum_score.rs)|
+|1539|[Kth Missing Positive Number](src/_1539_kth_missing_positive_number.rs)|
+|1540|[Can Convert String in K Moves](src/_1540_can_convert_string_in_k_moves.rs)|
+|1572|[Matrix Diagonal Sum ](src/_1572_matrix_diagonal_sum.rs)|
+|1577|[Number of Ways Where Square of Number Is Equal to Product of Two Numbers](src/_1577_number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers.rs)|
+|1582|[Special Positions in a Binary Matrix](src/_1582_special_positions_in_a_binary_matrix.rs)|
+|1583|[Count Unhappy Friends](src/_1583_count_unhappy_friends.rs)|
+|1588|[Sum of All Odd Length Subarrays ](src/_1588_sum_of_all_odd_length_subarrays.rs)|
+|1593|[Split a String Into the Max Number of Unique Substrings](src/_1593_split_a_string_into_the_max_number_of_unique_substrings.rs)|
+|1598|[Crawler Log Folder](src/_1598_rawler_log_folder.rs)|
+|1608|[Special Array With X Elements Greater Than or Equal X](src/_1608_special_array_with_x_elements_greater_than_or_equal_x.rs)|
+|1609|[Even Odd Tree](src/_1609_even_odd_tree.rs)|
 

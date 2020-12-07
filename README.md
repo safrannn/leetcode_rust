@@ -24,13 +24,14 @@ leetcode practise solution in rust
 |46|[Permutations](src/_0046_permutations.rs)|
 |49|[Group Anagrams](src/_0049_group_anagrams.rs)|
 |53|[Maximum Subarray](src/_0053_maximum_subarray.rs)|
+|54|[Spiral Matrix](src/_0054_spiral_matrix.rs)|
 |56|[Merge Intervals](src/_0056_merge_intervals.rs)|
 |66|[Plus One](src/_0066_plus_one.rs)|
 |67|[Add Binary](src/_0067_add_binary.rs)|
 |70|[Climbing Stairs](src/_0070_climbing_stairs.rs)|
 |74|[Search a 2D Matrix](src/_0074_search_a_2d_matrix.rs)|
 |78|[Subsets](src/_0078_subsets.rs)|
-|79|[Word Search](src/_0079_word_search)|
+|79|[Word Search](src/_0079_word_search.rs)|
 |83|[Remove Duplicates from Sorted List](src/_0083_remove_duplicates_from_sorted_list.rs)|
 |88|[Merge Sorted Array](src/_0088_merge_sorted_array.rs)|
 |91|[Decode Ways](src/_0091_decode_ways.rs)|
@@ -43,6 +44,7 @@ leetcode practise solution in rust
 |125|[Valid Palindrome](src/_0125_valid_palindrome.rs)|
 |127|[Word Ladder](src/_0127_word_ladder.rs)|
 |136|[Single Number](src/_0136_single_number.rs)|
+|151|[Reverse Words in a String](src/_0151_reverse_words_in_a_string.rs)|
 |155|[Min Stack](src/_0155_min_stack.rs)|
 |167|[Two Sum II - Input array is sorted](src/_0167_two_sum_ii.rs)|
 |169|[Majority Element](src/_0169_majority_element.rs)|

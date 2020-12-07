@@ -22,6 +22,6 @@ impl Solution {
 
 #[test]
 fn test() {
-    assert_eq!(Solution::max_operations(vec![1, 2, 3, 4], 2), 5);
+    assert_eq!(Solution::max_operations(vec![1, 2, 3, 4], 5), 2);
     assert_eq!(Solution::max_operations(vec![3, 1, 3, 4, 3], 6), 1);
 }

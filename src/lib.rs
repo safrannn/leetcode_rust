@@ -88,6 +88,8 @@ mod _0125_valid_palindrome;
 //
 mod _0127_word_ladder;
 //
+mod _0135_candy;
+//
 mod _0136_single_number;
 //
 mod _0151_reverse_words_in_a_string;
@@ -237,6 +239,8 @@ mod _0796_rotate_string;
 mod _0819_most_common_word;
 //
 mod _0844_backspace_string_compare;
+//
+mod _0859_buddy_strings;
 //
 mod _0875_koko_eating_bananas;
 //

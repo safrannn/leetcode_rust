@@ -43,6 +43,7 @@ leetcode practise solution in rust
 |122|[Best Time to Buy and Sell Stock II](src/_0122_best_time_to_buy_and_sell_stock_ii.rs)|
 |125|[Valid Palindrome](src/_0125_valid_palindrome.rs)|
 |127|[Word Ladder](src/_0127_word_ladder.rs)|
+|135|[Candy](src/_0135_candy.rs)|
 |136|[Single Number](src/_0136_single_number.rs)|
 |151|[Reverse Words in a String](src/_0151_reverse_words_in_a_string.rs)|
 |155|[Min Stack](src/_0155_min_stack.rs)|

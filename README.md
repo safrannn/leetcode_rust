@@ -31,7 +31,7 @@ leetcode practise solution in rust
 |70|[Climbing Stairs](src/_0070_climbing_stairs.rs)|
 |74|[Search a 2D Matrix](src/_0074_search_a_2d_matrix.rs)|
 |78|[Subsets](src/_0078_subsets.rs)|
-|79|[Word Search](src/_0079_word_search.rs)|
+|79|[Word Search](src/_0079_word_search)|
 |83|[Remove Duplicates from Sorted List](src/_0083_remove_duplicates_from_sorted_list.rs)|
 |88|[Merge Sorted Array](src/_0088_merge_sorted_array.rs)|
 |91|[Decode Ways](src/_0091_decode_ways.rs)|
@@ -146,6 +146,7 @@ leetcode practise solution in rust
 |1539|[Kth Missing Positive Number](src/_1539_kth_missing_positive_number.rs)|
 |1540|[Can Convert String in K Moves](src/_1540_can_convert_string_in_k_moves.rs)|
 |1572|[Matrix Diagonal Sum ](src/_1572_matrix_diagonal_sum.rs)|
+|1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](src/_1576_replace_all_question_mark_to_avoid_consecutive_repeating_characters.rs)|
 |1577|[Number of Ways Where Square of Number Is Equal to Product of Two Numbers](src/_1577_number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers.rs)|
 |1582|[Special Positions in a Binary Matrix](src/_1582_special_positions_in_a_binary_matrix.rs)|
 |1583|[Count Unhappy Friends](src/_1583_count_unhappy_friends.rs)|

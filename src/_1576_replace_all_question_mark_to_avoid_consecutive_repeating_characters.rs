@@ -1,33 +1,30 @@
 struct Solution;
 impl Solution {
     pub fn modify_string(s: String) -> String {
-        let mut result: Vec<char> = vec![];
-        let mut char_fill: u8 = 0;
-        let s: Vec<char> = s.chars().collect();
-        for (i, v) in s.iter().enumerate() {
-            match v {
-                '?' => {
-                    let mut potential_char = (char_fill + b'a') as char;
-                    while (i > 0 && potential_char == result[i - 1])
-                        || (i < s.len() - 1 && potential_char == s[i + 1])
-                    {
-                        if char_fill == 27 {
-                            char_fill = 0;
-                        }
-                        char_fill += 1;
-                        potential_char = (char_fill + b'a') as char;
+        let mut result = s.as_bytes().to_owned();
+        let mut ch = 0;
+
+        for i in 0..s.len() {
+            if result[i] == '?' as u8 {
+                if i == 0 {
+                    if s.len() != 1 && result[1] == 'a' as u8 {
+                        ch += 1;
                     }
-                    result.push(potential_char);
-                    if char_fill == 27 {
-                        char_fill = 0;
+                } else if i == s.len() - 1 {
+                    ch = (ch + 1) % 26;
+                } else {
+                    while result[i + 1] == 'a' as u8 + ch || result[i - 1] == 'a' as u8 + ch {
+                        ch = (ch + 1) % 26;
                     }
-                    char_fill += 1;
                 }
-                _ => result.push(v.clone()),
+
+                result[i] = 'a' as u8 + ch;
+            } else {
+                ch = (result[i] as u8 - 'a' as u8 + 1) % 26;
             }
         }
-        dbg!(&result);
-        result.into_iter().collect()
+
+        std::str::from_utf8(&result).unwrap().to_string()
     }
 }
 #[test]
@@ -38,14 +35,14 @@ fn test() {
     );
     assert_eq!(
         Solution::modify_string("ubv?w".to_string()),
-        "ubvaw".to_string()
+        "ubvxw".to_string()
     );
     assert_eq!(
         Solution::modify_string("j?qg??b".to_string()),
-        "jaqgbcb".to_string()
+        "jkqghib".to_string()
     );
     assert_eq!(
         Solution::modify_string("??yw?ipkj?".to_string()),
-        "abywcipkjd".to_string()
+        "abywxipkjl".to_string()
     );
 }

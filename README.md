@@ -118,6 +118,7 @@ leetcode practise solution in rust
 |796|[Rotate String  ](src/_0796_rotate_string.rs)|
 |819|[Most Common Word ](src/_0819_most_common_word.rs)|
 |844|[Backspace String Compare](src/_0844_backspace_string_compare.rs)|
+|859|[Buddy Strings](src/_0859_buddy_strings.rs)|
 |875|[Koko Eating Bananas](src/_0875_koko_eating_bananas.rs)|
 |905|[Sort Array By Parity](src/_0905_sort_array_by_parity.rs)|
 |922|[Sort Array By Parity II](src/_0922_sort_array_by_parity_ii.rs)|

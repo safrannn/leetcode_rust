@@ -21,6 +21,7 @@ leetcode practise solution in rust
 |34|[Find First and Last Position of Element in Sorted Array](src/_0034_find_first_and_last_position_of_element_in_sorted_array.rs)|
 |36|[Valid Sudoku  ](src/_0036_valid_sudoku.rs)|
 |38|[Count and Say](src/_0038_count_and_say.rs)|
+|42|[Trapping Rain Water](src/_0042_trapping_rain_water.rs)|
 |46|[Permutations](src/_0046_permutations.rs)|
 |49|[Group Anagrams](src/_0049_group_anagrams.rs)|
 |53|[Maximum Subarray](src/_0053_maximum_subarray.rs)|
@@ -150,6 +151,7 @@ leetcode practise solution in rust
 |1572|[Matrix Diagonal Sum ](src/_1572_matrix_diagonal_sum.rs)|
 |1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](src/_1576_replace_all_question_mark_to_avoid_consecutive_repeating_characters.rs)|
 |1577|[Number of Ways Where Square of Number Is Equal to Product of Two Numbers](src/_1577_number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers.rs)|
+|1578|[Minimum Deletion Cost to Avoid Repeating Letters](src/_1578_minimum_deletion_cost_to_avoid_repeating_letters.rs)|
 |1582|[Special Positions in a Binary Matrix](src/_1582_special_positions_in_a_binary_matrix.rs)|
 |1583|[Count Unhappy Friends](src/_1583_count_unhappy_friends.rs)|
 |1588|[Sum of All Odd Length Subarrays ](src/_1588_sum_of_all_odd_length_subarrays.rs)|

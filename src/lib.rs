@@ -42,6 +42,8 @@ mod _0036_valid_sudoku;
 //
 mod _0038_count_and_say;
 //
+mod _0042_trapping_rain_water;
+//
 mod _0046_permutations;
 //
 mod _0049_group_anagrams;
@@ -87,6 +89,8 @@ mod _0122_best_time_to_buy_and_sell_stock_ii;
 mod _0125_valid_palindrome;
 //
 mod _0127_word_ladder;
+//
+mod _0134_gas_station;
 //
 mod _0135_candy;
 //
@@ -198,6 +202,8 @@ mod _0503_next_greater_element_ii;
 //
 mod _0509_fibonacci_number;
 //
+mod _0516_longest_palindromic_subsequence;
+//
 mod _0520_detect_capital;
 //
 mod _0532_kdiff_pairs_in_an_array;
@@ -265,6 +271,8 @@ mod _1013_partition_array_into_three_parts_with_equal_sum;
 mod _1021_remove_outermost_parentheses;
 //
 mod _1029_two_city_scheduling;
+//
+mod _1152_analyze_user_website_visit_pattern;
 //
 mod _1239_maximum_length_of_a_concatenated_string_with_unique_characters;
 //

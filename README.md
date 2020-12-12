@@ -44,6 +44,7 @@ leetcode practise solution in rust
 |122|[Best Time to Buy and Sell Stock II](src/_0122_best_time_to_buy_and_sell_stock_ii.rs)|
 |125|[Valid Palindrome](src/_0125_valid_palindrome.rs)|
 |127|[Word Ladder](src/_0127_word_ladder.rs)|
+|134|[Gas Station](src/_0134_gas_station.rs)|
 |135|[Candy](src/_0135_candy.rs)|
 |136|[Single Number](src/_0136_single_number.rs)|
 |151|[Reverse Words in a String](src/_0151_reverse_words_in_a_string.rs)|
@@ -148,6 +149,7 @@ leetcode practise solution in rust
 |1537|[Get the Maximum Score ](src/_1537_get_the_maximum_score.rs)|
 |1539|[Kth Missing Positive Number](src/_1539_kth_missing_positive_number.rs)|
 |1540|[Can Convert String in K Moves](src/_1540_can_convert_string_in_k_moves.rs)|
+|1152|[Analyze User Website Visit Pattern](src/_1572_matrix_diagonal_sum.rs)|
 |1572|[Matrix Diagonal Sum ](src/_1572_matrix_diagonal_sum.rs)|
 |1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](src/_1576_replace_all_question_mark_to_avoid_consecutive_repeating_characters.rs)|
 |1577|[Number of Ways Where Square of Number Is Equal to Product of Two Numbers](src/_1577_number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers.rs)|

@@ -1,7 +1,6 @@
 struct Solution;
 impl Solution {
     pub fn reverse_words(s: String) -> String {
-        s.trim();
         let mut words: Vec<&str> = s.split_whitespace().collect();
         words.reverse();
         let result = words.join(" ");

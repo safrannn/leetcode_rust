@@ -335,3 +335,11 @@ mod _1609_even_odd_tree;
 mod _1679_max_number_of_ksum_pairs;
 //
 mod _1680_concatenation_of_consecutive_binary_numbers;
+//
+mod _1684_count_the_number_of_consistent_strings;
+//
+mod _1685_sum_of_absolute_differences_in_a_sorted_array;
+//
+mod _1686_stone_game_vi;
+//
+mod test;

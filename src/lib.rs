@@ -188,6 +188,8 @@ mod _0412_fizz_buzz;
 //
 mod _0415_add_strings;
 //
+mod _0424_longest_repeating_character_replacement;
+//
 mod _0437_path_sum_iii;
 //
 mod _0443_string_compression;
@@ -339,7 +341,5 @@ mod _1680_concatenation_of_consecutive_binary_numbers;
 mod _1684_count_the_number_of_consistent_strings;
 //
 mod _1685_sum_of_absolute_differences_in_a_sorted_array;
-//
-mod _1686_stone_game_vi;
 //
 mod test;

@@ -93,6 +93,7 @@ leetcode practise solution in rust
 |404|[Sum of Left Leaves](src/_0404_sum_of_left_leaves.rs)|
 |412|[Fizz Buzz ](src/_0412_fizz_buzz.rs)|
 |415|[Add Strings ](src/_0415_add_strings.rs)|
+|424|[Longest Repeating Character Replacement](src/_0424_longest_repeating_character_replacement.rs)|
 |437|[Path Sum III](src/_0437_path_sum_iii.rs)|
 |443|[String Compression](src/_0443_string_compression.rs)|
 |448|[Find All Numbers Disappeared in an Array](src/_0448_find_all_numbers_disappeared_in_an_array.rs)|
@@ -166,4 +167,3 @@ leetcode practise solution in rust
 |1680|[Concatenation of Consecutive Binary Numbers](src/_1680_concatenation_of_consecutive_binary_numbers.rs)|
 |1684|[Count the Number of Consistent Strings](src/_1684_count_the_number_of_consistent_strings.rs)|
 |1685|[Sum of Absolute Differences in a Sorted Array](src/_1685_sum_of_absolute_differences_in_a_sorted_array.rs)|
-|1686|[Stone Game VI](src/_1686_stone_game_vi.rs)|

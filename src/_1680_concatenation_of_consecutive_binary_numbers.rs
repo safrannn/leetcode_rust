@@ -11,7 +11,7 @@ impl Solution {
         result as i32
     }
 
-    fn binary_digits(mut decimal: usize) -> usize {
+    fn binary_digits(decimal: usize) -> usize {
         let mut bits = 0;
         while decimal > 0 {
             bits += 1;

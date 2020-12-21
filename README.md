@@ -167,3 +167,5 @@ leetcode practise solution in rust
 |1680|[Concatenation of Consecutive Binary Numbers](src/_1680_concatenation_of_consecutive_binary_numbers.rs)|
 |1684|[Count the Number of Consistent Strings](src/_1684_count_the_number_of_consistent_strings.rs)|
 |1685|[Sum of Absolute Differences in a Sorted Array](src/_1685_sum_of_absolute_differences_in_a_sorted_array.rs)|
+|1694|[Reformat Phone Number](src/_1694_reformat_phone_number.rs)|
+|1695|[Maximum Erasure Value](src/_1695_maximum_erasure_value.rs)|

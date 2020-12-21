@@ -342,4 +342,8 @@ mod _1684_count_the_number_of_consistent_strings;
 //
 mod _1685_sum_of_absolute_differences_in_a_sorted_array;
 //
+mod _1694_reformat_phone_number;
+//
+mod _1695_maximum_erasure_value;
+//
 mod test;

@@ -16,4 +16,8 @@ impl Solution {
 }
 
 #[test]
-fn test() {}
+fn test() {
+    assert_eq!(Solution::change(5, vec![1, 2, 5]), 4);
+    assert_eq!(Solution::change(3, vec![2]), 0);
+    assert_eq!(Solution::change(10, vec![10]), 1);
+}

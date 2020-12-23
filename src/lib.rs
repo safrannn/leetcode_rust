@@ -206,6 +206,8 @@ mod _0509_fibonacci_number;
 //
 mod _0516_longest_palindromic_subsequence;
 //
+mod _0518_coin_change_2;
+//
 mod _0520_detect_capital;
 //
 mod _0532_kdiff_pairs_in_an_array;

@@ -101,6 +101,7 @@ leetcode practise solution in rust
 |496|[Next Greater Element I](src/_0496_next_greater_element_i.rs)|
 |503|[Next Greater Element II](src/_0503_next_greater_element_ii.rs)|
 |509|[Fibonacci Number](src/_0509_fibonacci_number.rs)|
+|518|[Coin Change 2](src/_0518_coin_change_2.rs)|
 |520|[Detect Capital](src/_0520_detect_capital.rs)|
 |532|[K-diff Pairs in an Array](src/_0532_kdiff_pairs_in_an_array.rs)|
 |543|[Diameter of Binary Tree](src/_0543_diameter_of_binary_tree.rs)|

@@ -172,3 +172,6 @@ leetcode practise solution in rust
 |1685|[Sum of Absolute Differences in a Sorted Array](src/_1685_sum_of_absolute_differences_in_a_sorted_array.rs)|
 |1694|[Reformat Phone Number](src/_1694_reformat_phone_number.rs)|
 |1695|[Maximum Erasure Value](src/_1695_maximum_erasure_value.rs)|
+|1704|[Determine if String Halves Are Alike](src/_1704_determine_if_string_halves_are_alike.rs)|
+|1705|[Maximum Number of Eaten Apples  ](src/_1705_maximum_number_of_eaten_apples.rs)|
+|1706|[Where Will the Ball Fall](src/_1706_where_will_the_ball_fall.rs)|

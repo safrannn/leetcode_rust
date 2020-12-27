@@ -350,4 +350,10 @@ mod _1694_reformat_phone_number;
 //
 mod _1695_maximum_erasure_value;
 //
+mod _2000_determine_if_string_halves_are_alike;
+//
+mod _2001_maximum_number_of_eaten_apples;
+//
+mod _2002_where_will_the_ball_fall;
+//
 mod test;

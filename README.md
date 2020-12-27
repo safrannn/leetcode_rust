@@ -1,10 +1,12 @@
 # leetcode_rust
-leetcode practise solution in rust
+### leetcode practise solutions in RUST
+
+### current status
+167/1552 completed
 
 ### Finished problems:
 |id|Solution| 
 |---|---|
-||[](src/.rs)|
 |1|[Two Sum](src/_0001_two_sum.rs)|
 |2|[Add Two Numbers](src/_0002_add_two_numbers.rs)|
 |3|[Longest Substring Without Repeating Characters](src/_0003_longest_substring_without_repeating_characters.rs)|
@@ -175,3 +177,4 @@ leetcode practise solution in rust
 |1704|[Determine if String Halves Are Alike](src/_1704_determine_if_string_halves_are_alike.rs)|
 |1705|[Maximum Number of Eaten Apples  ](src/_1705_maximum_number_of_eaten_apples.rs)|
 |1706|[Where Will the Ball Fall](src/_1706_where_will_the_ball_fall.rs)|
+||[](src/.rs)|

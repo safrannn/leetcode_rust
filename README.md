@@ -166,6 +166,7 @@
 |1598|[Crawler Log Folder](src/_1598_rawler_log_folder.rs)|
 |1608|[Special Array With X Elements Greater Than or Equal X](src/_1608_special_array_with_x_elements_greater_than_or_equal_x.rs)|
 |1609|[Even Odd Tree](src/_1609_even_odd_tree.rs)|
+|1671|[Minimum Number of Removals to Make Mountain Array](src_1671_minimum_number_of_removals_to_make_mountain_array.rs)|
 |1678|[Goal Parser Interpretation](src/_1678_goal_parser_interpretation.rs)|
 |1679|[Max Number of K-Sum Pairs](src/_1679_max_number_of_k-sum_pairs.rs)|
 |1680|[Concatenation of Consecutive Binary Numbers](src/_1680_concatenation_of_consecutive_binary_numbers.rs)|

@@ -336,6 +336,8 @@ mod _1608_special_array_with_x_elements_greater_than_or_equal_x;
 //
 mod _1609_even_odd_tree;
 //
+mod _1671_minimum_number_of_removals_to_make_mountain_array;
+//
 mod _1679_max_number_of_ksum_pairs;
 //
 mod _1680_concatenation_of_consecutive_binary_numbers;
@@ -350,10 +352,10 @@ mod _1694_reformat_phone_number;
 //
 mod _1695_maximum_erasure_value;
 //
-mod _2000_determine_if_string_halves_are_alike;
+mod _1704_determine_if_string_halves_are_alike;
 //
-mod _2001_maximum_number_of_eaten_apples;
+mod _1705_maximum_number_of_eaten_apples;
 //
-mod _2002_where_will_the_ball_fall;
+mod _1706_where_will_the_ball_fall;
 //
 mod test;

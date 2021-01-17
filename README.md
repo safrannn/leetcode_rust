@@ -2,7 +2,7 @@
 ### leetcode practise solutions in RUST
 
 ### current status
-167/1552 completed
+169/1552 completed
 
 ### Finished problems:
 |id|Solution| 
@@ -138,6 +138,7 @@
 |1013|[Partition Array Into Three Parts With Equal Sum](src/_1013_partition_array_into_three_parts_with_equal_sum.rs)|
 |1021|[Remove Outermost Parentheses](src/_1021_remove_outermost_parentheses_1029_two_city_scheduling.rs)|
 |1029|[Two City Scheduling](src/_1029_two_city_scheduling.rs)|
+|1136|[Parallel Courses](src/_1136_parallel_courses.rs)|
 |1239|[Maximum Length of a Concatenated String with Unique Characters ](src/_1239_maximum_length_of_a_concatenated_string_with_unique_characters.rs)|
 |1249|[Minimum Remove to Make Valid Parentheses](src/_1249_minimum_remove_to_make_valid_parentheses.rs)|
 |1281|[Subtract the Product and Sum of Digits of an Integer](src/_1281_subtract_the_product_and_sum_of_digits_of_an_integer.rs)|
@@ -178,4 +179,5 @@
 |1704|[Determine if String Halves Are Alike](src/_1704_determine_if_string_halves_are_alike.rs)|
 |1705|[Maximum Number of Eaten Apples  ](src/_1705_maximum_number_of_eaten_apples.rs)|
 |1706|[Where Will the Ball Fall](src/_1706_where_will_the_ball_fall.rs)|
-||[](src/.rs)|
+|1725|[Number Of Rectangles That Can Form The Largest Square](src/_1725_number_of_rectangles_that_can_form_the_largest_square.rs)|
+|1726|[Tuple with Same Product](src/_1726_tuple_with_same_product.rs)|

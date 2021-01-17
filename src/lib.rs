@@ -276,6 +276,8 @@ mod _1021_remove_outermost_parentheses;
 //
 mod _1029_two_city_scheduling;
 //
+mod _1136_parallel_courses;
+//
 mod _1152_analyze_user_website_visit_pattern;
 //
 mod _1239_maximum_length_of_a_concatenated_string_with_unique_characters;
@@ -358,4 +360,9 @@ mod _1705_maximum_number_of_eaten_apples;
 //
 mod _1706_where_will_the_ball_fall;
 //
+mod _1725_number_of_rectangles_that_can_form_the_largest_square;
+//
+mod _1726_tuple_with_same_product;
+//
 mod test;
+//

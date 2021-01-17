@@ -5,13 +5,13 @@ impl Solution {
         if x < 0 {
             return false;
         }
-        let mut digits = Vec::new();
+        let mut reversed = 0;
         let mut number = x;
         while number > 0 {
-            digits.push(number % 10);
+            reversed = reversed * 10 + number % 10;
             number /= 10;
         }
-        digits == digits.iter().copied().rev().collect::<Vec<i32>>()
+        x == reversed
     }
 }
 

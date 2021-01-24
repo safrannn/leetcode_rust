@@ -181,3 +181,5 @@
 |1706|[Where Will the Ball Fall](src/_1706_where_will_the_ball_fall.rs)|
 |1725|[Number Of Rectangles That Can Form The Largest Square](src/_1725_number_of_rectangles_that_can_form_the_largest_square.rs)|
 |1726|[Tuple with Same Product](src/_1726_tuple_with_same_product.rs)|
+|1736|[Latest Time by Replacing Hidden Digits](src/_1736_latest_time_by_replacing_hidden_digits.rs)|
+|1737|[Change Minimum Characters to Satisfy One of Three Conditions](src/_1737_change_minimum_characters_to_satisfy_one_of_three_conditions.rs)|

@@ -11,17 +11,17 @@
 |2|[Add Two Numbers](src/_0002_add_two_numbers.rs)|
 |3|[Longest Substring Without Repeating Characters](src/_0003_longest_substring_without_repeating_characters.rs)|
 |5|[Longest Palindromic Substring](src/_0005_longest_palindromic_substring.rs)|
-|7|[Reverse Integer    ](src/_0007_reverse_integer.rs)|
-|9|[Palindrome Number ](src/_0009_palindrome_number.rs)|
+|7|[Reverse Integer](src/_0007_reverse_integer.rs)|
+|9|[Palindrome Number](src/_0009_palindrome_number.rs)|
 |11|[Container With Most Water](src/_0011_container_with_most_water.rs)|
 |14|[Longest Common Prefix](src/_0014_longest_common_prefix.rs)|
 |15|[3Sum](src/_0015_3sum.rs)|
 |17|[Letter Combinations of a Phone Number](src/_0017_letter_combinations_of_a_phone_number.rs)|
 |20|[Valid Parentheses](src/_0020_valid_parentheses.rs)|
-|21|[Merge Two Sorted Lists ](src/_0021_merge_two_sorted_lists.rs)|
-|22|[Generate Parentheses ](src/_0022_generate_parentheses.rs)|
+|21|[Merge Two Sorted Lists](src/_0021_merge_two_sorted_lists.rs)|
+|22|[Generate Parentheses](src/_0022_generate_parentheses.rs)|
 |34|[Find First and Last Position of Element in Sorted Array](src/_0034_find_first_and_last_position_of_element_in_sorted_array.rs)|
-|36|[Valid Sudoku  ](src/_0036_valid_sudoku.rs)|
+|36|[Valid Sudoku](src/_0036_valid_sudoku.rs)|
 |38|[Count and Say](src/_0038_count_and_say.rs)|
 |42|[Trapping Rain Water](src/_0042_trapping_rain_water.rs)|
 |46|[Permutations](src/_0046_permutations.rs)|
@@ -85,13 +85,13 @@
 |344|[Reverse String](src/_0344_reverse_string.rs)|
 |347|[Top K Frequent Elements](src/_0347_top_k_frequent_elements.rs)|
 |349|[Intersection of Two Arrays](src/_0349_intersection_of_two_arrays.rs)|
-|350|[Intersection of Two Arrays II ](src/_0350_intersection_of_two_arrays_ii.rs)|
+|350|[Intersection of Two Arrays II](src/_0350_intersection_of_two_arrays_ii.rs)|
 |359|[Logger Rate Limiter](src/_0359_logger_rate_limiter.rs)|
 |371|[Sum of Two Integers ](src/_0371_sum_of_two_integers.rs)|
 |383|[Ransom Note](src/_0383_ransom_note.rs)|
 |386|[Lexicographical Numbers](src/_0386_lexicographical_numbers.rs)|
 |387|[First Unique Character in a String ](src/_0387_first_unique_character_in_a_string.rs)|
-|394|[Decode String ](src/_0394_decode_string.rs)|
+|394|[Decode String](src/_0394_decode_string.rs)|
 |404|[Sum of Left Leaves](src/_0404_sum_of_left_leaves.rs)|
 |412|[Fizz Buzz ](src/_0412_fizz_buzz.rs)|
 |415|[Add Strings ](src/_0415_add_strings.rs)|
@@ -108,22 +108,23 @@
 |520|[Detect Capital](src/_0520_detect_capital.rs)|
 |532|[K-diff Pairs in an Array](src/_0532_kdiff_pairs_in_an_array.rs)|
 |543|[Diameter of Binary Tree](src/_0543_diameter_of_binary_tree.rs)|
-|556|[Next Greater Element III ](src/_0556_next_greater_element_iii.rs)|
-|557|[Reverse Words in a String III ](src/_0557_reverse_words_in_a_string_iii.rs)|
+|556|[Next Greater Element III](src/_0556_next_greater_element_iii.rs)|
+|557|[Reverse Words in a String III](src/_0557_reverse_words_in_a_string_iii.rs)|
 |559|[Maximum deph of N-ary tree](src/_0559_maximum_depth_of_nary_tree.rs)|
-|560|[Subarray Sum Equals K ](src/_0560_subarray_sum_equals_k.rs)|
-|561|[Array Partition I ](src/_0561_array_partition_i.rs)|
+|560|[Subarray Sum Equals K](src/_0560_subarray_sum_equals_k.rs)|
+|561|[Array Partition I](src/_0561_array_partition_i.rs)|
+|582|[Kill Process](src/_0582_kill_process.rs)|
 |605|[Can Place Flowers](src/_0605_can_place_flowers.rs)|
-|617|[Merge Two Binary Trees ](src/_0617_merge_two_binary_trees.rs)|
-|678|[Valid Parenthesis String ](src/_0678_valid_parenthesis_string.rs)|
+|617|[Merge Two Binary Trees](src/_0617_merge_two_binary_trees.rs)|
+|678|[Valid Parenthesis String](src/_0678_valid_parenthesis_string.rs)|
 |680|[Valid Palindrome II ](src/_0680_valid_palindrome_ii.rs)|
-|692|[Top K Frequent Words ](src/_0692_top_k_frequent_words.rs)|
+|692|[Top K Frequent Words](src/_0692_top_k_frequent_words.rs)|
 |724|[Find Pivot Index](src/_0724_find_pivot_index.rs)|
 |735|[Asteroid Collision ](src/_0735_asteroid_collision.rs)|
 |763|[Partition Labels](src/_0763_partition_labels.rs)|
-|771|[Jewels and Stones ](src/_0771_jewels_and_stones.rs)|
-|796|[Rotate String  ](src/_0796_rotate_string.rs)|
-|819|[Most Common Word ](src/_0819_most_common_word.rs)|
+|771|[Jewels and Stones](src/_0771_jewels_and_stones.rs)|
+|796|[Rotate String](src/_0796_rotate_string.rs)|
+|819|[Most Common Word](src/_0819_most_common_word.rs)|
 |844|[Backspace String Compare](src/_0844_backspace_string_compare.rs)|
 |859|[Buddy Strings](src/_0859_buddy_strings.rs)|
 |875|[Koko Eating Bananas](src/_0875_koko_eating_bananas.rs)|
@@ -133,36 +134,36 @@
 |938|[Range Sum of BST](src/_0938_range_sum_of_bst.rs)|
 |953|[Verifying an Alien Dictionary](src/_0953_verifying_an_alien_dictionary.rs)|
 |973|[K Closest Points to Origin](src/_0973_k_closest_points_to_origin.rs)|
-|977|[Squares of a Sorted Array ](src/_0977_squares_of_a_sorted_array.rs)|
+|977|[Squares of a Sorted Array](src/_0977_squares_of_a_sorted_array.rs)|
 |994|[Rotting Oranges](src/_0994_rotting_oranges.rs)|
 |1013|[Partition Array Into Three Parts With Equal Sum](src/_1013_partition_array_into_three_parts_with_equal_sum.rs)|
 |1021|[Remove Outermost Parentheses](src/_1021_remove_outermost_parentheses_1029_two_city_scheduling.rs)|
 |1029|[Two City Scheduling](src/_1029_two_city_scheduling.rs)|
 |1136|[Parallel Courses](src/_1136_parallel_courses.rs)|
-|1239|[Maximum Length of a Concatenated String with Unique Characters ](src/_1239_maximum_length_of_a_concatenated_string_with_unique_characters.rs)|
+|1239|[Maximum Length of a Concatenated String with Unique Characters](src/_1239_maximum_length_of_a_concatenated_string_with_unique_characters.rs)|
 |1249|[Minimum Remove to Make Valid Parentheses](src/_1249_minimum_remove_to_make_valid_parentheses.rs)|
 |1281|[Subtract the Product and Sum of Digits of an Integer](src/_1281_subtract_the_product_and_sum_of_digits_of_an_integer.rs)|
 |1287|[Element Appearing More Than 25% In Sorted Array](src/_1287_element_appearing_more_than_25_in_sorted_array.rs)|
 |1290|[Convert Binary Number in a Linked List to Integer](src/_1290_convert_binary_number_in_a_linked_list_to_integer.rs)|
 |1299|[Replace Elements with Greatest Element on Right Side](src/_1299_replace_elements_with_greatest_element_on_right_side.rs)|
-|1304|[Find N Unique Integers Sum up to Zero ](src/_1304_find_n_unique_integers_sum_up_to_zero.rs)|
+|1304|[Find N Unique Integers Sum up to Zero](src/_1304_find_n_unique_integers_sum_up_to_zero.rs)|
 |1480|[Running Sum of 1d Array](src/_1480_running_sum_of_1d_array.rs)|
-|1486|[XOR Operation in an Array ](src/_1486_xor_operation_in_an_array.rs)|
-|1496|[Path Crossing ](src/_1496_path_crossing.rs)|
+|1486|[XOR Operation in an Array](src/_1486_xor_operation_in_an_array.rs)|
+|1496|[Path Crossing](src/_1496_path_crossing.rs)|
 |1528|[Shuffle String](src/_1528_shuffle_string.rs)|
 |1534|[Count Good Triplets](src/_1534_count_good_triplets.rs)|
 |1535|[Find the Winner of an Array Game](src/_1535_find_the_winner_of_an_array_game.rs)|
-|1537|[Get the Maximum Score ](src/_1537_get_the_maximum_score.rs)|
+|1537|[Get the Maximum Score](src/_1537_get_the_maximum_score.rs)|
 |1539|[Kth Missing Positive Number](src/_1539_kth_missing_positive_number.rs)|
 |1540|[Can Convert String in K Moves](src/_1540_can_convert_string_in_k_moves.rs)|
 |1152|[Analyze User Website Visit Pattern](src/_1572_matrix_diagonal_sum.rs)|
-|1572|[Matrix Diagonal Sum ](src/_1572_matrix_diagonal_sum.rs)|
+|1572|[Matrix Diagonal Sum](src/_1572_matrix_diagonal_sum.rs)|
 |1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](src/_1576_replace_all_question_mark_to_avoid_consecutive_repeating_characters.rs)|
 |1577|[Number of Ways Where Square of Number Is Equal to Product of Two Numbers](src/_1577_number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers.rs)|
 |1578|[Minimum Deletion Cost to Avoid Repeating Letters](src/_1578_minimum_deletion_cost_to_avoid_repeating_letters.rs)|
 |1582|[Special Positions in a Binary Matrix](src/_1582_special_positions_in_a_binary_matrix.rs)|
 |1583|[Count Unhappy Friends](src/_1583_count_unhappy_friends.rs)|
-|1588|[Sum of All Odd Length Subarrays ](src/_1588_sum_of_all_odd_length_subarrays.rs)|
+|1588|[Sum of All Odd Length Subarrays](src/_1588_sum_of_all_odd_length_subarrays.rs)|
 |1593|[Split a String Into the Max Number of Unique Substrings](src/_1593_split_a_string_into_the_max_number_of_unique_substrings.rs)|
 |1598|[Crawler Log Folder](src/_1598_rawler_log_folder.rs)|
 |1608|[Special Array With X Elements Greater Than or Equal X](src/_1608_special_array_with_x_elements_greater_than_or_equal_x.rs)|
@@ -177,7 +178,7 @@
 |1694|[Reformat Phone Number](src/_1694_reformat_phone_number.rs)|
 |1695|[Maximum Erasure Value](src/_1695_maximum_erasure_value.rs)|
 |1704|[Determine if String Halves Are Alike](src/_1704_determine_if_string_halves_are_alike.rs)|
-|1705|[Maximum Number of Eaten Apples  ](src/_1705_maximum_number_of_eaten_apples.rs)|
+|1705|[Maximum Number of Eaten Apples](src/_1705_maximum_number_of_eaten_apples.rs)|
 |1706|[Where Will the Ball Fall](src/_1706_where_will_the_ball_fall.rs)|
 |1725|[Number Of Rectangles That Can Form The Largest Square](src/_1725_number_of_rectangles_that_can_form_the_largest_square.rs)|
 |1726|[Tuple with Same Product](src/_1726_tuple_with_same_product.rs)|

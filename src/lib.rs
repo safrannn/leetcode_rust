@@ -224,6 +224,8 @@ mod _0560_subarray_sum_equals_k;
 //
 mod _0561_array_partition_i;
 //
+mod _0582_kill_process;
+//
 mod _0605_can_place_flowers;
 //
 mod _0617_merge_two_binary_trees;
@@ -363,6 +365,10 @@ mod _1706_where_will_the_ball_fall;
 mod _1725_number_of_rectangles_that_can_form_the_largest_square;
 //
 mod _1726_tuple_with_same_product;
+//
+mod _1736_latest_time_by_replacing_hidden_digits;
+//
+mod _1737_change_minimum_characters_to_satisfy_one_of_three_conditions;
 //
 mod test;
 //

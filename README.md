@@ -2,7 +2,7 @@
 ### leetcode practise solutions in RUST
 
 ### current status
-169/1552 completed
+176/1552 completed
 
 ### Finished problems:
 |id|Solution| 
@@ -53,6 +53,7 @@
 |155|[Min Stack](src/_0155_min_stack.rs)|
 |167|[Two Sum II - Input array is sorted](src/_0167_two_sum_ii.rs)|
 |169|[Majority Element](src/_0169_majority_element.rs)|
+|179|[Largest Number](src/_0179_largest_number.rs)|
 |189|[Rotate Array](src/_0189_rotate_array.rs)|
 |198|[House Robber](src/_0198_house_robber.rs)|
 |200|[Number of Islands](src/_0200_number_of_islands.rs)|

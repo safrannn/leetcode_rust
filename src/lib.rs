@@ -290,6 +290,8 @@ mod _1281_subtract_the_product_and_sum_of_digits_of_an_integer;
 //
 mod _1287_element_appearing_more_than_25_in_sorted_array;
 //
+mod _1288_remove_covered_intervals;
+//
 mod _1290_convert_binary_number_in_a_linked_list_to_integer;
 //
 mod _1299_replace_elements_with_greatest_element_on_right_side;

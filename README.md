@@ -144,6 +144,7 @@
 |1249|[Minimum Remove to Make Valid Parentheses](src/_1249_minimum_remove_to_make_valid_parentheses.rs)|
 |1281|[Subtract the Product and Sum of Digits of an Integer](src/_1281_subtract_the_product_and_sum_of_digits_of_an_integer.rs)|
 |1287|[Element Appearing More Than 25% In Sorted Array](src/_1287_element_appearing_more_than_25_in_sorted_array.rs)|
+|1288|[Remove Covered Intervals](src/_1288_remove_covered_intervals.rs)|
 |1290|[Convert Binary Number in a Linked List to Integer](src/_1290_convert_binary_number_in_a_linked_list_to_integer.rs)|
 |1299|[Replace Elements with Greatest Element on Right Side](src/_1299_replace_elements_with_greatest_element_on_right_side.rs)|
 |1304|[Find N Unique Integers Sum up to Zero](src/_1304_find_n_unique_integers_sum_up_to_zero.rs)|

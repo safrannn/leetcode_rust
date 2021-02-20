@@ -96,6 +96,8 @@ mod _0135_candy;
 //
 mod _0136_single_number;
 //
+mod _0139_word_break;
+//
 mod _0151_reverse_words_in_a_string;
 //
 mod _0155_min_stack;

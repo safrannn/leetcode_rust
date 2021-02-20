@@ -2,7 +2,7 @@
 ### leetcode practise solutions in RUST
 
 ### current status
-176/1552 completed
+177/1552 completed
 
 ### Finished problems:
 |id|Solution| 
@@ -49,6 +49,7 @@
 |134|[Gas Station](src/_0134_gas_station.rs)|
 |135|[Candy](src/_0135_candy.rs)|
 |136|[Single Number](src/_0136_single_number.rs)|
+|139|[Word Break](src/_0139_word_break.rs)|
 |151|[Reverse Words in a String](src/_0151_reverse_words_in_a_string.rs)|
 |155|[Min Stack](src/_0155_min_stack.rs)|
 |167|[Two Sum II - Input array is sorted](src/_0167_two_sum_ii.rs)|

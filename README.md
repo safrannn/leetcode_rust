@@ -38,6 +38,7 @@
 |83|[Remove Duplicates from Sorted List](src/_0083_remove_duplicates_from_sorted_list.rs)|
 |88|[Merge Sorted Array](src/_0088_merge_sorted_array.rs)|
 |91|[Decode Ways](src/_0091_decode_ways.rs)|
+|98|[Validate Binary Search Tree](src/_0098_validate_binary_search_tree.rs)|
 |101|[Symmetric Tree](src/_0101_symmetric_tree.rs)|
 |103|[Binary Tree Zigzag Level Order Traversal](src/_0103_binary_tree_zigzag_level_order_traversal.rs)|
 |104|[Maximum Depth of Binary Tree](src/_0104_maximum_depth_of_binary_tree.rs)|

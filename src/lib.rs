@@ -72,6 +72,8 @@ mod _0088_merge_sorted_array;
 //
 mod _0091_decode_ways;
 //
+mod _0098_validate_binary_search_tree;
+//
 mod _0101_symmetric_tree;
 //
 mod _0103_binary_tree_zigzag_level_order_traversal;

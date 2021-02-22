@@ -5,6 +5,9 @@ impl Solution {
         let mut strings: Vec<String> = nums.iter().map(|n| n.to_string()).collect();
         strings.sort_unstable_by(|a, b| (b.clone() + &a.clone()).cmp(&(a.clone() + &b.clone())));
         let mut result = "".to_string();
+        if strings[0] == "0" {
+            return "0".to_string();
+        }
         for s in strings {
             result += &s.clone();
         }

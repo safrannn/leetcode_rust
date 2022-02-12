@@ -242,6 +242,8 @@ mod _0680_valid_palindrome_ii;
 //
 mod _0692_top_k_frequent_words;
 //
+mod _0696_count_binary_substrings;
+//
 mod _0724_find_pivot_index;
 //
 mod _0735_asteroid_collision;
@@ -253,6 +255,8 @@ mod _0771_jewels_and_stones;
 mod _0777_swap_adjacent_in_lr_string;
 //
 mod _0796_rotate_string;
+//
+mod _0811_subdomain_visit_count;
 //
 mod _0819_most_common_word;
 //
@@ -377,6 +381,10 @@ mod _1726_tuple_with_same_product;
 mod _1736_latest_time_by_replacing_hidden_digits;
 //
 mod _1737_change_minimum_characters_to_satisfy_one_of_three_conditions;
+//
+mod _1742_maximum_number_of_balls_in_a_box;
+//
+mod _1748_sum_of_unique_elements;
 //
 mod test;
 //

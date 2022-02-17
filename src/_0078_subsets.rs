@@ -2,27 +2,19 @@ struct Solution;
 
 impl Solution {
     pub fn subsets(nums: Vec<i32>) -> Vec<Vec<i32>> {
-        let mut result: Vec<Vec<i32>> = vec![];
-        let mut current: Vec<i32> = vec![];
-        let n: usize = nums.len();
-        Self::dfs(&nums, 0, &n, &mut result, &mut current);
+        let mut result = vec![];
+        Self::dfs(&nums, 0, &mut vec![], &mut result);
         result
     }
 
-    fn dfs(
-        nums: &Vec<i32>,
-        i: usize,
-        n: &usize,
-        result: &mut Vec<Vec<i32>>,
-        current: &mut Vec<i32>,
-    ) {
-        if i == *n {
-            result.push(current.to_vec());
+    fn dfs(nums: &Vec<i32>, i: usize, current: &mut Vec<i32>, result: &mut Vec<Vec<i32>>) {
+        if i == nums.len() {
+            result.push(current.clone());
         } else {
-            Self::dfs(nums, i + 1, n, result, current);
             current.push(nums[i]);
-            Self::dfs(nums, i + 1, n, result, current);
+            Self::dfs(&nums, i + 1, current, result);
             current.pop();
+            Self::dfs(&nums, i + 1, current, result);
         }
     }
 }

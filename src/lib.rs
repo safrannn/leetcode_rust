@@ -24,6 +24,8 @@ mod _0009_palindrome_number;
 //
 mod _0011_container_with_most_water;
 //
+mod _0013_roman_to_integer;
+//
 mod _0014_longest_common_prefix;
 //
 mod _0015_3sum;
@@ -244,6 +246,8 @@ mod _0692_top_k_frequent_words;
 //
 mod _0696_count_binary_substrings;
 //
+mod _0704_binary_search;
+//
 mod _0724_find_pivot_index;
 //
 mod _0735_asteroid_collision;
@@ -379,8 +383,6 @@ mod _1725_number_of_rectangles_that_can_form_the_largest_square;
 mod _1726_tuple_with_same_product;
 //
 mod _1736_latest_time_by_replacing_hidden_digits;
-//
-mod _1737_change_minimum_characters_to_satisfy_one_of_three_conditions;
 //
 mod _1742_maximum_number_of_balls_in_a_box;
 //

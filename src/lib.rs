@@ -38,6 +38,8 @@ mod _0021_merge_two_sorted_lists;
 //
 mod _0022_generate_parentheses;
 //
+mod _0031_next_permutation;
+//
 mod _0034_find_first_and_last_position_of_element_in_sorted_array;
 //
 mod _0036_valid_sudoku;
@@ -136,9 +138,13 @@ mod _0213_house_robber_ii;
 //
 mod _0215_kth_largest_element_in_an_array;
 //
+mod _0217_contains_duplicate;
+//
 mod _0219_contains_duplicate_ii;
 //
 mod _0221_maximal_square;
+//
+mod _0231_power_of_two;
 //
 mod _0234_palindrome_linked_list;
 //
@@ -189,6 +195,8 @@ mod _0386_lexicographical_numbers;
 mod _0387_first_unique_character_in_a_string;
 //
 mod _0394_decode_string;
+//
+mod _0402_remove_k_digits;
 //
 mod _0404_sum_of_left_leaves;
 //

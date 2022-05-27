@@ -116,6 +116,8 @@ mod _0179_largest_number;
 //
 mod _0189_rotate_array;
 //
+mod _0191_number_of_1_bits;
+//
 mod _0198_house_robber;
 //
 mod _0200_number_of_islands;
@@ -304,6 +306,8 @@ mod _1136_parallel_courses;
 //
 mod _1152_analyze_user_website_visit_pattern;
 //
+mod _1207_unique_number_of_occurrences;
+//
 mod _1239_maximum_length_of_a_concatenated_string_with_unique_characters;
 //
 mod _1249_minimum_remove_to_make_valid_parentheses;
@@ -319,6 +323,8 @@ mod _1290_convert_binary_number_in_a_linked_list_to_integer;
 mod _1299_replace_elements_with_greatest_element_on_right_side;
 //
 mod _1304_find_n_unique_integers_sum_up_to_zero;
+//
+mod _1492_the_kth_factor_of_n;
 //
 mod _1480_running_sum_of_1d_array;
 //
@@ -386,6 +392,8 @@ mod _1705_maximum_number_of_eaten_apples;
 //
 mod _1706_where_will_the_ball_fall;
 //
+mod _1710_maximum_units_on_a_truck;
+//
 mod _1725_number_of_rectangles_that_can_form_the_largest_square;
 //
 mod _1726_tuple_with_same_product;
@@ -395,6 +403,3 @@ mod _1736_latest_time_by_replacing_hidden_digits;
 mod _1742_maximum_number_of_balls_in_a_box;
 //
 mod _1748_sum_of_unique_elements;
-//
-mod test;
-//
